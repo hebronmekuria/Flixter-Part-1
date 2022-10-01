@@ -1,10 +1,10 @@
 # Android Project 3 - *Flixter*
 
-Submitted by: **Noel Abeje**
+Submitted by: **Hebron Mekuria**
 
 **Flixter** is a movie browsing app that allows users to browse movies currently playing in theaters.
 
-Time spent: **6** hours spent in total
+Time spent: **9** hours spent in total
 
 ## Required Features
 
@@ -16,8 +16,8 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [x] Improve and customize the user interface through styling and coloring
-- [x] Implement orientation responsivity
+- [] Improve and customize the user interface through styling and coloring
+- [] Implement orientation responsivity
   - App should neatly arrange data in both landscape and portrait mode
 - [ ] Implement Glide to display placeholder graphics during loading
   - Note: this feature is difficult to capture in a GIF without throttling internet speeds.  Instead, include an additional screencap of your Glide code implementing the feature.  (<10 lines of code)
@@ -30,15 +30,14 @@ Here's a walkthrough of implemented user stories:
 <img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Peek 
+GIF created with Screen to GIF
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+Debugging was the biggest challenge. I am unfamiliar with kotlin still and struggled to read and understand error messages. 
 
 ## License
 
-    Copyright [2022] [Noel Abeje]
+    Copyright [2022] [Hebron Mekuria]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
